@@ -33,8 +33,4 @@ Ikuti langkah-langkah berikut untuk menjalankan game:
 
 -----
 
-### Kontrol
-
-  - **Spasi** atau **Tombol Atas (↑)**: Melompat.
-
 Selamat bermain\! 😊
